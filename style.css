@@ -1,0 +1,61 @@
+body {
+	font-size: 100%;
+}
+.wrap {
+  width: 90%;
+  height: 700px;
+  padding: 25px;
+  border: 0px;
+  margin: 0px;
+  overflow: auto;
+}
+
+#bigHeader {
+	width: 75%;
+    border: 25px;
+    margin: auto;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 1.7em;
+}
+h1 {
+	text-align: center;
+}
+
+#left {
+	float: left;
+	width: 50%;
+	padding: 35px;
+	text-align: center;
+
+	
+}
+
+#title {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: bold;
+	font-size: 1.875em;
+	padding: 15px;
+}
+
+#text {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif ; 
+	font-size:1.4em;
+	padding: 5px;
+
+
+}
+
+#imageBox {
+	display: block;
+	width: 40%;
+	height: 500px;
+	float: right;
+	padding: 15px 10px 10px 10px;
+	overflow: hidden;
+}
+#imagen {
+	width: 400px;
+
+}
+
+
